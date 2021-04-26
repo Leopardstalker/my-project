@@ -14,3 +14,30 @@
   justify-content: center;
   font-size: 3rem;
 }
+
+.home{
+  background-image: url('./component/images/Imper.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.reports{
+  background-image: url('./component/images/knigs.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.products{
+  background-image: url('./component/images/Ulanor.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
